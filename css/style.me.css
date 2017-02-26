@@ -1,0 +1,38 @@
+p strong{
+		color: #fff
+	}
+	#my-intro h1{
+		font-size: 80px;
+		color: #fff;
+		font-family: 'Roboto', cursive;;
+	}
+	#my-intro h1 span{
+		font-family: 'Roboto', sans-serif;
+	}
+	p{
+		color: #aaa
+	}
+	body{
+		color: #fff;
+		background: #11141B;
+		text-align: center;
+		font-family: 'Cabin', sans-serif;
+	}
+	.social a{
+		color: #aaa;
+		font-size: 30px;
+		margin: 0 1px;
+	}
+/*body {
+  background-color: #111;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
+p {
+  font-family: Inconsolata, Source Code Pro, Consolas, monospace;
+  margin-left: calc(50vw - 6em);
+  font-size: 24px;
+  font-weight: bold;
+}*/
